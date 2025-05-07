@@ -1,18 +1,12 @@
 # PIXIT 🎨📊  
 An open-source, interactive **Algorithm Visualizer** built to help users understand how sorting and pathfinding algorithms work through real-time animations and user-controlled inputs.
 
-(https://github.com/shifluxxc/PIXIT/assets/banner.png) <!-- Replace with actual image path if available -->
-
 ## 🚀 Features
 
 - 🧭 Explore **pathfinding algorithms** like BFS, DFS, Dijkstra’s Algorithm, and A*
 - 🖱️ Interactive grid with obstacle placement and speed control
 - 🌓 Light/Dark mode toggle
 - ⚡ Smooth and responsive UI built with React
-
-## 📸 Preview
-
-![App Preview](https://github.com/shifluxxc/PIXIT/assets/preview.gif) <!-- Replace with actual GIF/image if available -->
 
 ## 🛠️ Tech Stack
 
